@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @andre-bandeli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-andre-bandeli/andre-bandeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm looking for opportunities in the area of ​​software development, specializing in web services
+- 🌱 I've been studying python, java, c, django, spring, frontend concepts and design
+- 💞️ I'm open for project collaboration, send-me a message. 
+- 📫 facebook: andrebandeli/ In: /andrébandeli
