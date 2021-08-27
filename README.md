@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andre-bandeli
 - 👀 I'm looking for opportunities in the area of ​​software development, specializing in web services
-- 🌱 I've been studying python, java, c, django, spring, frontend concepts and design
+- 🌱 I've been studying python, java, c, django, spring, frontend concepts and design websites
 - 💞️ I'm open for project collaboration, send-me a message. 
 - 📫 facebook: andrebandeli/ In: /andrébandeli
