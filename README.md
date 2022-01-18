@@ -1,4 +1,4 @@
-## André Bandeli
+# André Bandeli
 
 
 ### Compondo atualmente o grupo de desenvolvimento de software do AGHUse, sistema de Gestão Hospitalar em produção no hospital de Clínicas da Unicamp - atuação com Java
