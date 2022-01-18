@@ -17,9 +17,9 @@ Foco principal em desenvolvimento backend, sendo as principais stack: Java e Pyt
 
 ### Frontend
 
-![Badge](https://img.shields.io/badge/React-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/React-JS-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/JavaScript-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/CSS-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/CSS-SCSS-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/HTML-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=ghost)
 
