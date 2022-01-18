@@ -1,7 +1,7 @@
 ## André Bandeli
 
 
-#### Compondo atualmente o grupo de desenvolvimento de software do AGHUse, sistema de Gestão Hospitalar em produção no hospital de Clínicas da Unicamp - atuação com Java
+### Compondo atualmente o grupo de desenvolvimento de software do AGHUse, sistema de Gestão Hospitalar em produção no hospital de Clínicas da Unicamp - atuação com Java
 
 Foco principal em desenvolvimento backend, sendo as principais stack: Java e Python, com foco em web. Experiência com versionamento de código, deploy de aplicação utilizando TomCat, Jboss, Spring, Maven, entre outros.  Utilização de bancos relacionais, sendo principalmente Postgres e MySQL. No desenvolvimento frontend, utilização de React, Bootstrap, css/scss, JavaScript e Html. 
 
@@ -26,14 +26,14 @@ Foco principal em desenvolvimento backend, sendo as principais stack: Java e Pyt
 
 
 
-## Formação Acadêmica 
+### Formação Acadêmica 
 
 - Universidade Estadual de Campinas (UNICAMP)
 Graduação em andamento em Engenharia Agrícola, mas migrando para Ciência da Computação. Inicio em 2019 - atualmente
 - Colégio Técnico de Campinas (COTUCA-UNICAMP)
 Técnico em Mecatrônica cursado junto ao ensino médio. Fomado em 2017.
 
-## Resumo Profissional 
+### Resumo Profissional 
 
 - HC Unicamp - Intern software developer (out/21 - atual)
 - CTDI do Brasil - Técnico Planejador de Manutenção (mar/17 - mai/21)
