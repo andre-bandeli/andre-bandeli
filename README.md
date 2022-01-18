@@ -3,7 +3,7 @@
 
 ### Compondo atualmente o grupo de desenvolvimento de software do AGHUse, sistema de Gestão Hospitalar em produção no hospital de Clínicas da Unicamp - atuação com Java
 
-Foco principal em desenvolvimento backend, sendo as principais stack: Java e Python, com foco em web. Experiência com versionamento de código, deploy de aplicação utilizando TomCat, Jboss, Spring, Maven, entre outros.  Utilização de bancos relacionais, sendo principalmente Postgres e MySQL. No desenvolvimento frontend, utilização de React, Bootstrap, css/scss, JavaScript e Html. 
+Iniciei minha jornada como técnico mecatrônico, com conhecimentos práticos em programação em blocos, linguagem lader e C# para programar arduino. No setor industrial, tive contato com bancos de dados MySQL e Oracle e, atualmente, desenvolvo utilizando Java para o hospital de Clínicas da Unicamp, no projeto do software intitulado 'AGHUse', sistema de gestão hospitalar.
 
 
 ### Backend
