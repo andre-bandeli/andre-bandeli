@@ -43,6 +43,6 @@ Técnico em Mecatrônica cursado junto ao ensino médio. Fomado em 2017.
 
 ### Áreas de Interesse
 
-![Badge](https://img.shields.io/badge/Micro-Serviços-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/Sistemas-Embarcados-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/Deep-Learning-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/MicroServiços-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/SistemasEmbarcados-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/DeepLearning-%237159c1?style=for-the-badge&logo=ghost)
