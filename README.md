@@ -1,9 +1,7 @@
 # André Bandeli
 
 
-#### Compondo atualmente o grupo de desenvolvimento de software do AGHUse, sistema de Gestão Hospitalar em produção no hospital de Clínicas da Unicamp - atuação com Java
-
-Iniciei minha jornada como técnico mecatrônico, com conhecimentos práticos em programação em blocos, linguagem lader e C# para programar arduino. No setor industrial, tive contato com bancos de dados MySQL e Oracle e, atualmente, desenvolvo utilizando Java para o hospital de Clínicas da Unicamp, no projeto do software intitulado 'AGHUse', sistema de gestão hospitalar.
+Compondo atualmente o grupo de desenvolvimento de software do AGHUse, sistema de Gestão Hospitalar em produção no hospital de Clínicas da Unicamp - atuação com Java
 
 Desenvolvimento backend utilizando principalmente Python e Java, frameworks Django e Spring Boot. Focando em microserviços, padrões de projetos e metodologias ágeis. Virtualização com docker e versionamento de código com git. Utilização de bancos relacionais, sendo principalmente PostgreSQL e MySQL.
 
