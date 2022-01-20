@@ -36,8 +36,8 @@ Técnico em Mecatrônica cursado junto ao ensino médio. Fomado em 2017.
 ### Resumo Profissional 
 
 - HC Unicamp - Intern software developer (out/21 - atual)
-- CTDI do Brasil - Técnico Planejador de Manutenção (mar/17 - mai/21)
-- Grêmio Recreativo Campinas - Manutenções gerais (jan/14 - jan/17)
+- CTDI do Brasil - Técnico Planejador de Manutenção | 4 anos 2 meses (mar/17 - mai/21)
+- Grêmio Recreativo Campinas - Manutenções gerais | 3 anos (jan/14 - jan/17)
 
 ### Áreas de Interesse
 
