@@ -8,18 +8,16 @@ Desenvolvimento backend utilizando principalmente Python e Java, frameworks Djan
 
 ### Backend
 
-![Badge](https://img.shields.io/badge/Python-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/JAVA-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/DJANGO-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/SpringBoot-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/Postgres-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/Maven-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/Wildfly-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
 
-![Badge](https://img.shields.io/badge/React-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/css-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/hrml-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)
 
