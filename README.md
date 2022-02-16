@@ -22,25 +22,3 @@ Desenvolvimento backend utilizando principalmente Python e Java, frameworks Djan
 ![Badge](https://img.shields.io/badge/CSS-SCSS-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/HTML-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=ghost)
-
-
-
-
-### Formação Acadêmica 
-
-- Universidade Estadual de Campinas (UNICAMP)
-Graduação em andamento em Engenharia Agrícola, mas migrando para Ciência da Computação. Inicio em 2019 - atualmente
-- Colégio Técnico de Campinas (COTUCA-UNICAMP)
-Técnico em Mecatrônica cursado junto ao ensino médio. Fomado em 2017.
-
-### Resumo Profissional 
-
-- HC Unicamp - Intern software developer (out/21 - atual)
-- CTDI do Brasil - Técnico Planejador de Manutenção | 4 anos 2 meses (mar/17 - mai/21)
-- Grêmio Recreativo Campinas - Manutenções gerais | 3 anos (jan/14 - jan/17)
-
-### Áreas de Interesse
-
-![Badge](https://img.shields.io/badge/MicroServiços-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/SistemasEmbarcados-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/DeepLearning-%237159c1?style=for-the-badge&logo=ghost)
