@@ -10,10 +10,11 @@ Desenvolvimento backend utilizando principalmente Python e Java, frameworks Djan
 
 ![Badge](https://img.shields.io/badge/Python-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/JAVA-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/C-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/DJANGO-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/SpringBoot-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Postgres-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/Maven-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Wildfly-%237159c1?style=for-the-badge&logo=ghost)
 
 ### Frontend
 
