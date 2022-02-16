@@ -17,8 +17,8 @@ Desenvolvimento backend utilizando principalmente Python e Java, frameworks Djan
 
 ### Frontend
 
-![Badge](https://img.shields.io/badge/React-JS-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/JavaScript-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/CSS-SCSS-%237159c1?style=for-the-badge&logo=ghost)
-![Badge](https://img.shields.io/badge/HTML-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/React-%237159c1?style=for-the-badge&logo=ghost)
 ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/css-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/hrml-%237159c1?style=for-the-badge&logo=ghost)
+
