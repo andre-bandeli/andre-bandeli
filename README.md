@@ -1,9 +1,10 @@
 # André Bandeli
 
+1997 | Campinas/SP | In: https://www.linkedin.com/in/andrébandeli/
 
-Compondo atualmente o grupo de desenvolvimento de software do AGHUse, sistema de Gestão Hospitalar em produção no hospital de Clínicas da Unicamp - atuação com Java
+Desenvolvedor web em ambientes Java e Python. Experiência com JPA, Hibernate, Servlets, JSF, JSM, PostgreSQL, MySQL, Django e padrões git de sistemas em produção. Atualmente desenvolvendo para o Departamento de Comunicação da DGRH-Unicamp como aluno bolsista.
 
-Desenvolvimento backend utilizando principalmente Python e Java, frameworks Django e Spring Boot. Focando em microserviços, padrões de projetos e metodologias ágeis. Virtualização com docker e versionamento de código com git. Utilização de bancos relacionais, sendo principalmente PostgreSQL e MySQL.
+Realizando a graduando pela Unicamp em Engenharia Agrícola, com início em 2019, porém transferindo para Ciência da Computação. Formação técnica pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016).
 
 
 ### Backend
