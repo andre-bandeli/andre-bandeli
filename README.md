@@ -1,6 +1,6 @@
 # André Bandeli
 
-1997 | Campinas/SP | In: https://www.linkedin.com/in/andrébandeli/
+1997 | Campinas/SP
 
 Desenvolvedor web em ambientes Java e Python. Experiência com JPA, Hibernate, Servlets, JSF, JSM, PostgreSQL, MySQL, Django e padrões git de sistemas em produção. Atualmente desenvolvendo para o Departamento de Comunicação da DGRH-Unicamp como aluno bolsista.
 
