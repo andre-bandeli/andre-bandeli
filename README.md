@@ -4,7 +4,7 @@
 
 Desenvolvedor web em ambientes Java e Python. Experiência com JPA, Hibernate, Servlets, JSF, JSM, PostgreSQL, MySQL, Django e padrões git de sistemas em produção. Atualmente desenvolvendo para o Departamento de Comunicação da DGRH-Unicamp como aluno bolsista.
 
-Realizando a graduando pela Unicamp em Engenharia Agrícola, com início em 2019, porém transferindo para Ciência da Computação. Formação técnica pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016).
+Realizando a graduação pela Unicamp em Engenharia Agrícola, com início em 2019, porém transferindo para Ciência da Computação. Formação técnica pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016).
 
 
 ### Backend
