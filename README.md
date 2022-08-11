@@ -1,10 +1,10 @@
 # André Bandeli
 
-1997 | Campinas/SP
+1997
 
-Desenvolvedor web em ambientes Java e Python. Experiência com JPA, Hibernate, Servlets, JSF, JSM, PostgreSQL, MySQL, Django e padrões git de sistemas em produção. Atualmente desenvolvendo para o Departamento de Comunicação da DGRH-Unicamp como aluno bolsista.
+Atualmente desenvolvendo para o time de comunicação da DGRH Unicamp, atuando com a criação e desenvolvimento de websites institucionais, utilizando wordpress, php, css, docker, mysql, git, scrum, etc... através do programa de permanência. Atuei, também, junto ao time do Hospital de Clínicas da Unicamp no app AGHUse, uma aplicação web desenvolvida com java ee (e suas stacks em geral) para gestão hospitalar. 
 
-Realizando a graduação pela Unicamp em Engenharia Agrícola, com início em 2019, porém transferindo para Ciência da Computação. Formação técnica pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016).
+Realizando a graduação pela Unicamp em Engenharia Agrícola (2019) mas migrando para Ciência da Computação. Formação pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016).
 
 
 ### Backend
