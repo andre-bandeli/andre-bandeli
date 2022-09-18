@@ -2,7 +2,7 @@
 
 1997
 
-Atualmente desenvolvendo para o time de comunicação da DGRH Unicamp, atuando com a criação e desenvolvimento de websites institucionais, utilizando wordpress, php, css, docker, mysql, git, scrum, etc... através do programa de permanência. Atuei, também, junto ao time do Hospital de Clínicas da Unicamp no app AGHUse, uma aplicação web desenvolvida com java ee (e suas stacks em geral) para gestão hospitalar. 
+Atualmente desenvolvo junto ao time de Comunicação da Diretoria Geral de Recursos Humanos da Unicamp, atuando com desenvolvimento de sites institucionais, utilizando wordpress, php, css, docker, mysql, git, etc... através do programa de permanência. Atuei, também, junto ao time do Hospital de Clínicas da Unicamp, no app AGHUse, uma aplicação web desenvolvida com Java EE (e suas stacks em geral) para gestão hospitalar. 
 
 Realizando a graduação pela Unicamp em Engenharia Agrícola (2019) mas migrando para Ciência da Computação. Formação pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016).
 
