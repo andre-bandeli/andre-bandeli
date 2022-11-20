@@ -2,7 +2,7 @@
 
 1997
 
-Desenvolvedor web com 1 ano e meio de experiência. Minha principal stack é Java c/ Spring Boot para construção de aplicações REST, mas atuo também com Wordpress, Python (django web) e React.
+Desenvolvedor web. Minha principal stack é Java c/ Spring Boot para construção de aplicações REST, mas atuo também com Wordpress, Python (django web) e React.
 
 Conhecimento e interesse por arquitetura de microsserviços e mensageria com kafka. Experiência com docker e versionamento com git/gitlab.
 
