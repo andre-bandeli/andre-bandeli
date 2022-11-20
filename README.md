@@ -2,9 +2,15 @@
 
 1997
 
-Atualmente desenvolvo junto ao time de Comunicação da Diretoria Geral de Recursos Humanos da Unicamp, atuando com desenvolvimento de sites institucionais, utilizando wordpress, php, css, docker, mysql, git, etc... através do programa de permanência. Atuei, também, junto ao time do Hospital de Clínicas da Unicamp, no app AGHUse, uma aplicação web desenvolvida com Java EE (e suas stacks em geral) para gestão hospitalar. 
+Desenvolvedor web com 1 ano e meio de experiência. Minha principal stack é Java c/ Spring Boot para construção de aplicações REST, mas atuo também com Wordpress, Python (django web) e React.
 
-Realizando a graduação pela Unicamp em Engenharia Agrícola (2019) mas migrando para Ciência da Computação. Formação pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016).
+Conhecimento e interesse por arquitetura de microsserviços e mensageria com kafka. Experiência com docker e versionamento com git/gitlab.
+
+Atualmente desenvolvo junto ao time de Comunicação da Diretoria Geral de Recursos Humanos da Unicamp, atuando com desenvolvimento de sites institucionais, através do programa de permanência. Atuei, também, junto ao time do Hospital de Clínicas, no app AGHUse.
+
+Estou vindo de uma transição de carreira. Atuei durante 4 anos e meio no setor industrial, ocupando o cargo de técnico de manutenção elétrica.
+
+Formação pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016). Atualmente realizando a graduação pela Unicamp.
 
 
 ### Backend
