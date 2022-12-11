@@ -12,6 +12,7 @@ Estou vindo de uma transição de carreira. Atuei durante 4 anos e meio no setor
 
 Formação pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016). Atualmente realizando a graduação pela Unicamp.
 
+🌐 https://andre-bandeli.github.io/andrebandeli-react-website/
 
 ### Backend
 
