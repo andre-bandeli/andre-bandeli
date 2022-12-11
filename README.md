@@ -6,8 +6,6 @@ Desenvolvedor web. Minha principal stack é Java c/ Spring Boot para construçã
 
 Conhecimento e interesse por arquitetura de microsserviços e mensageria com kafka. Experiência com docker e versionamento com git/gitlab.
 
-Atualmente desenvolvo junto ao time de Comunicação da Diretoria Geral de Recursos Humanos da Unicamp, atuando com desenvolvimento de sites institucionais, através do programa de permanência. Atuei, também, junto ao time do Hospital de Clínicas, no app AGHUse.
-
 Estou vindo de uma transição de carreira. Atuei durante 4 anos e meio no setor industrial, ocupando o cargo de técnico de manutenção elétrica.
 
 Formação pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente de Proj. e Process. Industriais (2017) e no ensino médio (2016). Atualmente realizando a graduação pela Unicamp.
@@ -31,3 +29,9 @@ Formação pelo Colégio Técnico de Campinas em Mecatrônica (2017), Assistente
 ![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit)
 
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
