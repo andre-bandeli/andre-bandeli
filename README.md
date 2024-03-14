@@ -6,4 +6,4 @@
 
 1997 | Campinas, São Paulo
 
-Atualmente estou cursando bacharelado em Engenharia Agrícola na Universidade Estadual de Campinas. Possuo formação Técnica em Mecatrônica pelo Colégio Técnico de Campinas (2017); Assistente de Projetos e Processos Industriais Mecânicos (2017), além do ensino médio (2016).
+Atualmente estou cursando bacharelado em Engenharia Agrícola na Universidade Estadual de Campinas/UNICAMP. Possuo formação Técnica em Mecatrônica pelo Colégio Técnico de Campinas (2017); Assistente de Projetos e Processos Industriais Mecânicos (2017), além do ensino médio (2016).
